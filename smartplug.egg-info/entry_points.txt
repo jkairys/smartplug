@@ -1,0 +1,3 @@
+[console_scripts]
+smartplug = smartplug.cli.commands:cli
+

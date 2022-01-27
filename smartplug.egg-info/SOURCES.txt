@@ -1,0 +1,8 @@
+README.md
+setup.py
+smartplug.egg-info/PKG-INFO
+smartplug.egg-info/SOURCES.txt
+smartplug.egg-info/dependency_links.txt
+smartplug.egg-info/entry_points.txt
+smartplug.egg-info/requires.txt
+smartplug.egg-info/top_level.txt

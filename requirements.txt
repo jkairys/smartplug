@@ -1,0 +1,6 @@
+click
+meross_iot==0.4.4.3
+pytest
+loguru
+pydantic
+confuse
